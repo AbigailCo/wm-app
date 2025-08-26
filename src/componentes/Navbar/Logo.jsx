@@ -1,4 +1,4 @@
-import img from "../../assets/logo.png";
+import img from "../../assets/logo.jpg";
 function Logo() {
   return (
     <div className="flex items-center space-x-2">

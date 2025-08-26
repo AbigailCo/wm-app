@@ -4,12 +4,12 @@ import { Link } from "react-router-dom";
 export default function Productos() {
   return (
     <section
-      id="productos"
-      className="min-h-screen flex items-center justify-center bg-[#2e3458] px-4"
+      id="tratamientos"
+      className="min-h-screen flex items-center justify-center bg-[#fbf4f3] px-4"
     >
       <div className="flex flex-col items-center max-w-7xl w-full gap-8">
         <h2 className="text-2xl sm:text-3xl font-bold text-[#dec09a] text-center">
-          NUESTROS PRODUCTOS
+          NUESTROS TRATAMIENTOS
         </h2>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 w-full">

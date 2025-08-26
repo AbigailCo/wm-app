@@ -1,10 +1,10 @@
-import img from "../../assets/inicio.png";
+import img from "../../assets/logo.jpg";
 
 export default function Inicio() {
   return (
     <section
       id="inicio"
-      className="min-h-screen flex items-center justify-center bg-[#2e3458] px-4"
+      className="min-h-screen flex items-center justify-center bg-[#fbf4f3] px-4"
     >
       <img
         src={img}
