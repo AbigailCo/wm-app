@@ -2,7 +2,7 @@
 const alfajores = [
   {
     id: 1,
-    nombre: "Alfajor Baileys y Cafe",
+    nombre: "caca",
     img: "/Alfajores/1.png",
     descripcion: "Tapas: chocolate. Relleno: chocolate con corazon de frutos rojos con baño de chocolate con leche."
   },
