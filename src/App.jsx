@@ -11,10 +11,13 @@ function App() {
       <main className="pt-20">
         <C.Navbar />
         <C.Inicio />
+       
         <C.Tratamientos />
         <C.PreFrecuentes/>
         <C.Nosotros />
         <C.Contacto />
+         <C.Kuroobi/>
+        <C.Fotter/>
       </main>
     </div>
   )

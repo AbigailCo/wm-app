@@ -14,7 +14,7 @@ function Navbar() {
           <li>
             <a
               href="#tratamientos"
-              className="text-[#343432] hover:underline hover:text-yellow-300 transition-colors"
+              className="text-[#343432] hover:underline hover:text-[#f9a826] transition-colors"
             >
               Tratamientos
             </a>
@@ -22,7 +22,7 @@ function Navbar() {
            <li>
             <a
               href="#preguntas"
-              className="text-[#343432] hover:underline hover:text-yellow-300 transition-colors"
+              className="text-[#343432] hover:underline hover:text-[#f9a826] transition-colors"
             >
               Preguntas
             </a>
@@ -30,7 +30,7 @@ function Navbar() {
           <li>
             <a
               href="#nosotros"
-              className="text-[#343432] hover:underline hover:text-yellow-300 transition-colors"
+              className="text-[#343432] hover:underline hover:text-[#f9a826] transition-colors"
             >
               Nosotros
             </a>
@@ -39,12 +39,19 @@ function Navbar() {
           <li>
             <a
               href="#contacto"
-              className="text-[#343432] hover:underline hover:text-yellow-300 transition-colors"
+              className="text-[#343432] hover:underline hover:text-[#f9a826] transition-colors"
             >
               Contacto
             </a>
           </li>
-          
+          <li>
+            <a
+              href="#kuroobi"
+              className="text-[#343432] hover:underline hover:text-[#f9a826] transition-colors"
+            >
+              Novedades
+            </a>
+          </li>
           {/*<C.BotonCarrito /> */}  
           
         </ul>

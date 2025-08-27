@@ -3,14 +3,16 @@ export {default as Inicio} from './Inicio/index.jsx';
 export {default as Nosotros} from './Nosotros/index.jsx';
 export {default as Productos} from './Productos/index.jsx';
 export {default as Contacto} from './Contacto/index.jsx';
-export {default as Tratamientos} from './Tratamientos/index.jsx'
-export {default as PreFrecuentes} from './Preguntas/index.jsx'
+export {default as Tratamientos} from './Tratamientos/index.jsx';
+export {default as PreFrecuentes} from './Preguntas/index.jsx';
+export {default as Kuroobi} from './Kuroobi/index.jsx';
 
 //NARVAR
 export {default as Navbar} from './Navbar/Navbar.jsx';
 export {default as Logo} from './Navbar/Logo.jsx';
 export {default as NavbarInterno} from './Navbar/NavbarInterno.jsx';
-
+//Footer
+export {default as Fotter} from './Footer/index.jsx'
 //Titulo
 export {default as TituloSeccion} from './TituloSeccion/index.jsx';
 
