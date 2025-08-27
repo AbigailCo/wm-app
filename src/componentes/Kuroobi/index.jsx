@@ -1,4 +1,4 @@
-import img from "../../assets/kuroo-logo.jpg";
+import img from "../../assets/kuroo-logo.png";
 import { motion } from "framer-motion";
 
 export default function Inicio() {
