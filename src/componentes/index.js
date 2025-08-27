@@ -28,6 +28,9 @@ export {default as Informacion} from './Informacion/index.jsx'
 //Preguntas
 export {default as Preguntas} from './Preguntas/pre.jsx'
 
+//Mapa
+export {default as Mapa} from './Mapa/index.jsx'
+
 //Botones
 export {default as BotonAgregar} from './BotonAgregar/index.jsx';
 export {default as BotonCarrito} from './BotonCarrito/index.jsx';
