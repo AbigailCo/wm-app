@@ -19,6 +19,14 @@ function Navbar() {
               Tratamientos
             </a>
           </li>
+           <li>
+            <a
+              href="#preguntas"
+              className="text-[#343432] hover:underline hover:text-yellow-300 transition-colors"
+            >
+              Preguntas
+            </a>
+          </li>
           <li>
             <a
               href="#nosotros"

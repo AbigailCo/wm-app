@@ -11,7 +11,8 @@ function App() {
       <main className="pt-20">
         <C.Navbar />
         <C.Inicio />
-          <C.Productos />
+        <C.Tratamientos />
+        <C.PreFrecuentes/>
         <C.Nosotros />
         <C.Contacto />
       </main>
